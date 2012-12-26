@@ -1,4 +1,4 @@
-/*! ontouchstart.js v1.0 | git.io/-bjtcg | @reitermarkus */
+/*! on.touchstart.js v1.0 | git.io/ontouchstart | @reitermarkus */
 
 ;(function(d) {
 

@@ -1,4 +1,4 @@
-/*! ga-ext.js v1.0 | git.io/AoHg4w | @reitermarkus */
+/*! ga.ext.js v1.0 | git.io/ga-ext | @reitermarkus */
 
 var _gaq = [
       ['_setAccount','UA-XXXXXXXX-X'], // Change “UA-XXXXXXXX-X” to your Google Analytics ID.
