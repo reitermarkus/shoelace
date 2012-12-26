@@ -1,0 +1,27 @@
+# humanstxt.org
+
+/* TEAM */
+
+Your title: Your name
+Site: email, link to a contact form, etc.
+Twitter: your Twitter username
+Location: City, Country
+
+Your partner's title: Your partner's name
+Site: email, link to a contact form, etc.
+Facebook: your partner's Facebook username
+From: Country.
+
+
+
+/* THANKS */
+
+Name: name or url
+
+
+
+/* SITE */
+
+Last update: YYYY/MM/DD 
+Standards: HTML5, CSS3, etc.
+Components: jQuery, etc.
